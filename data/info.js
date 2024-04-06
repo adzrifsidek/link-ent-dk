@@ -1,7 +1,6 @@
 const info = {
-  name: "Pieter Montoulieu",
-  title: `XR Developer, AI/ML Enthusiast, 
-and Full-stack Engineer.`,
+  name: "Duit Kahwin",
+  title: `Idea tambah pendapatan untuk duit kahwin`,
 };
 
 export default info;

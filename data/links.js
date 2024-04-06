@@ -1,33 +1,18 @@
 const links = [
   {
-    title: "Portfolio and Resume",
-    url: "https://montoulieu.dev",
-    emoji: "🤝",
+    title: "Bisnes Air Balang",
+    url: "https://www.klikjer.com/members/go.php?id=9073_59",
+    emoji: "🥛",
   },
   {
-    title: "Dev/Tech Blog",
-    url: "https://montoulieu.substack.com",
-    emoji: "📝",
+    title: "Bisnes Aiskrim",
+    url: "https://www.klikjer.com/members/go.php?id=9073_56",
+    emoji: "🍦",
   },
   {
-    title: "VGM and Emulation Blog",
-    url: "https://pixelglitch.net",
-    emoji: "👾",
-  },
-  {
-    title: "shwarma - Experimental Psych Rock",
-    url: "https://music.shwarma.band",
-    emoji: "🎸",
-  },
-  {
-    title: "Dr. Zilog - Chiptune Prog Metal",
-    url: "https://drzilog.bandcamp.com",
-    emoji: "🤘",
-  },
-  {
-    title: "Vaporwave and Ambient Music",
-    url: "https://montoulieu.bandcamp.com",
-    emoji: "🔊",
+    title: "Bisnes Belon",
+    url: "https://www.klikjer.com/members/go.php?id=9073_100",
+    emoji: "🎈",
   },
 ];
 

@@ -22,10 +22,10 @@ function IndexPage() {
     <div className="flex flex-col min-h-screen py-10 px-6 sm:px-0">
       {/* FontAwesome CDN style tag */}
       <Head>
-        <title>{info.name} | LinkEnt</title>
+        <title>{info.name} | Idea Bisnes Untuk Kumpul Duit</title>
         <meta
           name="description"
-          content="🌲 A free Linktree alternative built with React and Tailwind."
+          content="Idea tambah pendapatan untuk duit kahwin."
         />
       </Head>
 
